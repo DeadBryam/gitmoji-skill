@@ -56,6 +56,8 @@ python3 scripts/gitmoji_selector.py --conventional feat auth "Add authentication
 
 ## Gitmoji Quick Reference
 
+This skill uses the official [Gitmoji](https://gitmoji.dev/) specification as its primary reference. Here are some common gitmojis and their meanings:
+
 | Type | Emoji | Example |
 |------|-------|---------|
 | Feature | ✨ | Add new functionality |
